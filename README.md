@@ -1,2 +1,3 @@
-# hello-world
-Bitcoin. Eg free.com
+# hello-world 
+## projecect notes
+
